@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
-// Replace with your real keys from Firebase Console
+
 const firebaseConfig = {
   apiKey: "AIzaSyC96l8y90Eq4vw13nA9EsmAEdumDBHTEYI",
   authDomain: "student-firebase-app-24.firebaseapp.com",
